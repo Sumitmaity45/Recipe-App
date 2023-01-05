@@ -5,13 +5,7 @@
     font-family: "Poppins", sans-serif;
 }
 body{
-    min-height: 100vh;
-    width: 100%;
-    background-image: linear-gradient(rgba(62, 63, 65, 0.7),rgba(68, 68, 71, 0.7)),url(Photos/pic2.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+     background-color: #f4c531;
 }
 .container{
     background: rgba(222, 210, 210, 0.7);
